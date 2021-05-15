@@ -1,7 +1,6 @@
 <!--**Abufarhah/Abufarhah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ### Hi there 👋, my name is Layth
 #### I am a Software Engineer at Exalt Technologies.
-![I am a Software Engineer at Exalt Technologies.]
 
 A computer science graduate, working in software development, looking to improve my skills, eager to learn new technologies and share experiences.
 
