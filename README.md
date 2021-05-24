@@ -2,7 +2,7 @@
 ### Hi there 👋, my name is Layth
 #### I am a Software Engineer at Exalt Technologies.
 
-A computer science graduate, working in software development, looking to improve my skills, eager to learn new technologies and share experiences.
+A computer science graduate, working in software development, looking to improve skills, eager to learn new technologies and share experiences.
 
 Skills: Java / Spring / Angular / Python / Shell
 
