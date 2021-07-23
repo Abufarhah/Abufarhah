@@ -4,7 +4,7 @@
 
 A computer science graduate, working in software development, looking to improve skills, eager to learn new technologies and share experiences.
 
-Skills: Java / Spring / Angular / Python / Shell
+Skills: Java / Spring / PHP / Laravel / Angular / Python / Shell
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/laythabufarhah/)
